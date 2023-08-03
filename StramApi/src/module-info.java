@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author swara
+ *
+ */
+module StramApi {
+}
